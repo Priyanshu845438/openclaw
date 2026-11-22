@@ -1,3 +1,5 @@
+> **Fork notice:** This is [Priyanshu Raj’s fork](https://github.com/Priyanshu845438/openclaw) of [openclaw/openclaw](https://github.com/openclaw/openclaw). Original authorship and official project releases belong to the upstream project. [More public projects](https://github.com/Priyanshu845438/Priyanshu845438/blob/main/PUBLIC-REPOSITORIES.md) · [Priyanshu’s profile](https://github.com/Priyanshu845438).
+
 # 🦞 OpenClaw — Personal AI Assistant
 
 <p align="center">
